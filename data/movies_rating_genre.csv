@@ -1,0 +1,474 @@
+,film,IMDB_Rating,Genre1,Genre2,Genre3
+420,The Shawshank Redemption,9.3,Drama,,
+358,The Godfather,9.2,Crime,Drama,
+0,12 Angry Men,9.0,Crime,Drama,
+345,The Dark Knight,9.0,Action,Crime,Drama
+394,The Lord of the Rings: The Return of the King,8.9,Action,Adventure,Drama
+273,Pulp Fiction,8.9,Crime,Drama,
+293,Schindler's List,8.9,Biography,Drama,History
+179,Inception,8.8,Action,Adventure,Sci-Fi
+130,Fight Club,8.8,Drama,,
+393,The Lord of the Rings: The Fellowship of the Ring,8.8,Action,Adventure,Drama
+134,Forrest Gump,8.8,Drama,Romance,
+403,The Matrix,8.7,Action,Sci-Fi,
+395,The Lord of the Rings: The Two Towers,8.7,Action,Adventure,Drama
+291,Saving Private Ryan,8.6,Drama,War,
+421,The Silence of the Lambs,8.6,Crime,Drama,Thriller
+190,It's a Wonderful Life,8.6,Drama,Family,Fantasy
+185,Interstellar,8.6,Adventure,Drama,Sci-Fi
+365,The Green Mile,8.6,Crime,Drama,Fantasy
+323,Star Wars,8.6,Action,Adventure,Fantasy
+409,The Prestige,8.5,Drama,Mystery,Sci-Fi
+408,The Pianist,8.5,Biography,Drama,Music
+83,Casablanca,8.5,Drama,Romance,War
+387,The Lion King,8.5,Animation,Adventure,Drama
+144,Gladiator,8.5,Action,Adventure,Drama
+348,The Departed,8.5,Crime,Drama,Thriller
+436,The Usual Suspects,8.5,Crime,Mystery,Thriller
+329,Terminator 2: Judgment Day,8.5,Action,Sci-Fi,
+272,Psycho,8.5,Horror,Mystery,Thriller
+42,Back to the Future,8.5,Adventure,Comedy,Sci-Fi
+194,Joker,8.5,Crime,Drama,Thriller
+25,American History X,8.5,Drama,,
+462,Whiplash,8.5,Drama,Music,
+30,Apocalypse Now,8.4,Drama,Mystery,War
+227,Memento,8.4,Mystery,Thriller,
+275,Raiders of the Lost Ark,8.4,Action,Adventure,
+466,Witness for the Prosecution,8.4,Crime,Drama,Mystery
+280,Rear Window,8.4,Mystery,Thriller,
+117,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,Comedy,,
+316,Spider-Man: Into the Spider-Verse,8.4,Animation,Action,Adventure
+326,Sunset Blvd.,8.4,Drama,Film-Noir,
+15,Alien,8.4,Horror,Sci-Fi,
+363,The Great Dictator,8.4,Comedy,Drama,War
+390,The Lives of Others,8.4,Drama,Mystery,Thriller
+111,Django Unchained,8.4,Drama,Western,
+96,Coco,8.4,Animation,Adventure,Family
+39,Avengers: Infinity War,8.4,Action,Adventure,Sci-Fi
+38,Avengers: Endgame,8.4,Action,Adventure,Drama
+208,Lawrence of Arabia,8.3,Adventure,Biography,Drama
+16,Aliens,8.3,Action,Adventure,Sci-Fi
+456,Vertigo,8.3,Mystery,Romance,Thriller
+251,North by Northwest,8.3,Adventure,Mystery,Thriller
+332,The Apartment,8.3,Comedy,Drama,Romance
+94,Citizen Kane,8.3,Drama,Mystery,
+328,Taxi Driver,8.3,Crime,Drama,
+151,Good Will Hunting,8.3,Drama,Romance,
+178,Incendies,8.3,Drama,Mystery,War
+104,Das Boot,8.3,Adventure,Drama,Thriller
+7,A Clockwork Orange,8.3,Crime,Drama,Sci-Fi
+138,Full Metal Jacket,8.3,Drama,War,
+304,Singin' in the Rain,8.3,Comedy,Musical,Romance
+116,Double Indemnity,8.3,Crime,Drama,Film-Noir
+27,Amélie,8.3,Comedy,Romance,
+283,Requiem for a Dream,8.3,Drama,,
+68,Braveheart,8.3,Biography,Drama,History
+425,The Sting,8.3,Comedy,Crime,Drama
+125,Eternal Sunshine of the Spotless Mind,8.3,Drama,Romance,Sci-Fi
+447,Toy Story,8.3,Animation,Adventure,Comedy
+21,Amadeus,8.3,Biography,Drama,History
+182,Inglourious Basterds,8.3,Adventure,Drama,War
+2,1917,8.3,Drama,Thriller,War
+23,American Beauty,8.3,Drama,,
+3,2001: A Space Odyssey,8.3,Adventure,Sci-Fi,
+6,A Beautiful Mind,8.2,Biography,Drama,
+258,Pan's Labyrinth,8.2,Drama,Fantasy,War
+153,Green Book,8.2,Biography,Comedy,Drama
+446,To Kill a Mockingbird,8.2,Crime,Drama,
+310,Some Like It Hot,8.2,Comedy,Music,Romance
+109,Die Hard,8.2,Action,Thriller,
+200,Klaus,8.2,Animation,Adventure,Comedy
+274,Raging Bull,8.2,Biography,Drama,Sport
+196,Judgment at Nuremberg,8.2,Drama,War,
+277,Ran,8.2,Action,Drama,War
+432,The Treasure of the Sierra Madre,8.2,Adventure,Drama,Western
+445,To Be or Not to Be,8.2,Comedy,War,
+46,Batman Begins,8.2,Action,Adventure,
+181,Indiana Jones and the Last Crusade,8.2,Action,Adventure,
+443,There Will Be Blood,8.2,Drama,,
+458,Warrior,8.2,Action,Drama,Sport
+449,Toy Story 3,8.2,Animation,Adventure,Comedy
+364,The Great Escape,8.2,Adventure,Drama,History
+454,Unforgiven,8.2,Drama,Western,
+359,The Gold Rush,8.2,Adventure,Comedy,Drama
+455,Up,8.2,Animation,Adventure,Comedy
+441,The Wolf of Wall Street,8.2,Biography,Crime,Drama
+84,Casino,8.2,Crime,Drama,
+204,L.A. Confidential,8.2,Crime,Drama,Mystery
+431,The Third Man,8.1,Film-Noir,Mystery,Thriller
+133,Ford v Ferrari,8.1,Action,Biography,Drama
+131,Finding Nemo,8.1,Animation,Adventure,Comedy
+197,Jurassic Park,8.1,Action,Adventure,Sci-Fi
+281,Rebecca,8.1,Drama,Mystery,Romance
+170,Hotel Rwanda,8.1,Biography,Drama,History
+189,It Happened One Night,8.1,Comedy,Romance,
+216,Logan,8.1,Action,Drama,Sci-Fi
+128,Fargo,8.1,Crime,Drama,Thriller
+434,The Truman Show,8.1,Comedy,Drama,
+219,Mad Max: Fury Road,8.1,Action,Adventure,Sci-Fi
+171,How to Train Your Dragon,8.1,Animation,Action,Adventure
+247,Network,8.1,Drama,,
+231,Million Dollar Baby,8.1,Drama,Sport,
+259,Paper Moon,8.1,Comedy,Crime,Drama
+285,Rocky,8.1,Drama,Sport,
+157,Hacksaw Ridge,8.1,Biography,Drama,History
+255,On the Waterfront,8.1,Crime,Drama,Thriller
+240,Mr. Smith Goes to Washington,8.1,Comedy,Drama,
+183,Inherit the Wind,8.1,Biography,Drama,History
+177,In the Name of the Father,8.1,Biography,Crime,Drama
+238,"Monsters, Inc.",8.1,Animation,Adventure,Comedy
+249,No Country for Old Men,8.1,Crime,Drama,Thriller
+184,Inside Out,8.1,Animation,Adventure,Comedy
+150,Gone with the Wind,8.1,Drama,History,Romance
+149,Gone Girl,8.1,Drama,Mystery,Thriller
+267,Platoon,8.1,Drama,War,
+1,12 Years a Slave,8.1,Biography,Drama,History
+186,Into the Wild,8.1,Adventure,Biography,Drama
+271,Prisoners,8.1,Crime,Drama,Mystery
+44,Barry Lyndon,8.1,Adventure,Drama,History
+88,Catch Me If You Can,8.1,Biography,Crime,Drama
+311,Song of the Sea,8.1,Animation,Adventure,Drama
+361,The Grand Budapest Hotel,8.1,Adventure,Comedy,Crime
+350,The Elephant Man,8.1,Biography,Drama,
+347,The Deer Hunter,8.1,Drama,War,
+288,Room,8.1,Drama,Thriller,
+339,The Bridge on the River Kwai,8.1,Adventure,Drama,War
+92,Chinatown,8.1,Drama,Mystery,Thriller
+97,Cool Hand Luke,8.1,Crime,Drama,
+459,What Ever Happened to Baby Jane?,8.1,Drama,Horror,Thriller
+320,Stand by Me,8.1,Adventure,Drama,
+317,Spotlight,8.1,Biography,Crime,Drama
+312,Soul,8.1,Animation,Adventure,Comedy
+107,Dead Poets Society,8.1,Comedy,Drama,
+452,Trainspotting,8.1,Drama,,
+399,The Man Who Shot Liberty Valance,8.1,Drama,Western,
+49,Before Sunset,8.1,Drama,Romance,
+463,White Heat,8.1,Action,Crime,Drama
+414,The Red Shoes,8.1,Drama,Music,Romance
+422,The Sixth Sense,8.1,Drama,Mystery,Thriller
+59,Blade Runner,8.1,Action,Sci-Fi,Thriller
+52,Ben-Hur,8.1,Adventure,Drama,History
+398,The Maltese Falcon,8.0,Film-Noir,Mystery,
+374,The Incredibles,8.0,Animation,Action,Adventure
+416,The Revenant,8.0,Action,Adventure,Drama
+213,Lion,8.0,Biography,Drama,
+371,The Hustler,8.0,Drama,Sport,
+412,The Pursuit of Happyness,8.0,Biography,Drama,
+373,The Imitation Game,8.0,Biography,Drama,Thriller
+207,Laura,8.0,Drama,Film-Noir,Mystery
+410,The Princess Bride,8.0,Adventure,Family,Fantasy
+206,La Strada,8.0,Drama,,
+402,The Martian,8.0,Adventure,Drama,Sci-Fi
+205,La La Land,8.0,Comedy,Drama,Music
+379,The King's Speech,8.0,Biography,Drama,History
+383,The Last Picture Show,8.0,Drama,Romance,
+424,The Sound of Music,8.0,Biography,Drama,Family
+470,Young Frankenstein,8.0,Comedy,,
+367,The Help,8.0,Drama,,
+287,Roman Holiday,8.0,Comedy,Romance,
+220,Magnolia,8.0,Drama,,
+440,The Wizard of Oz,8.0,Adventure,Family,Fantasy
+289,Rosemary's Baby,8.0,Drama,Horror,
+465,Who's Afraid of Virginia Woolf?,8.0,Drama,,
+292,Scent of a Woman,8.0,Drama,,
+429,The Thin Man,8.0,Comedy,Crime,Mystery
+426,The Straight Story,8.0,Biography,Drama,
+278,Ratatouille,8.0,Animation,Adventure,Comedy
+307,Sleuth,8.0,Mystery,Thriller,
+276,Rain Man,8.0,Drama,,
+308,Sling Blade,8.0,Drama,,
+309,Slumdog Millionaire,8.0,Drama,Romance,
+467,Wonder,8.0,Drama,Family,
+362,The Grapes of Wrath,8.0,Drama,History,
+266,Planet of the Apes,8.0,Adventure,Sci-Fi,
+265,Pirates of the Caribbean: The Curse of the Black Pearl,8.0,Action,Adventure,Fantasy
+262,Persepolis,8.0,Animation,Biography,Drama
+319,Stalag 17,8.0,Comedy,Drama,War
+260,Papillon,8.0,Biography,Crime,Drama
+192,Jaws,8.0,Adventure,Thriller,
+334,The Best Years of Our Lives,8.0,Drama,Romance,War
+338,The Bourne Ultimatum,8.0,Action,Mystery,Thriller
+351,The Exorcist,8.0,Horror,,
+360,The Graduate,8.0,Comedy,Drama,Romance
+294,Secrets & Lies,8.0,Comedy,Drama,
+472,Zootopia,8.0,Animation,Adventure,Comedy
+47,Beauty and the Beast,8.0,Animation,Family,Fantasy
+103,Dancer in the Dark,8.0,Crime,Drama,Musical
+76,Butch Cassidy and the Sundance Kid,8.0,Biography,Crime,Drama
+74,Brief Encounter,8.0,Drama,Romance,
+191,JFK,8.0,Drama,History,Thriller
+93,Cinderella Man,8.0,Biography,Drama,History
+154,Guardians of the Galaxy,8.0,Action,Adventure,Comedy
+64,Bohemian Rhapsody,8.0,Biography,Drama,Music
+62,Blood Diamond,8.0,Adventure,Drama,Thriller
+166,Her,8.0,Drama,Romance,Sci-Fi
+60,Blade Runner 2049,8.0,Action,Drama,Mystery
+58,Black Swan,8.0,Drama,Thriller,
+53,Big Fish,8.0,Adventure,Drama,Fantasy
+51,Being There,8.0,Comedy,Drama,
+85,Casino Royale,8.0,Action,Adventure,Thriller
+102,Dallas Buyers Club,8.0,Biography,Drama,
+87,Cat on a Hot Tin Roof,8.0,Drama,,
+129,Fiddler on the Roof,8.0,Drama,Family,Musical
+29,Annie Hall,8.0,Comedy,Romance,
+139,Gandhi,8.0,Biography,Drama,History
+112,Do the Right Thing,8.0,Comedy,Drama,
+28,Anatomy of a Murder,8.0,Crime,Drama,Mystery
+13,A Streetcar Named Desire,8.0,Drama,,
+113,Doctor Zhivago,8.0,Drama,Romance,War
+114,Dog Day Afternoon,8.0,Biography,Crime,Drama
+14,Aladdin,8.0,Animation,Adventure,Comedy
+17,All Quiet on the Western Front,8.0,Drama,War,
+315,Spartacus,7.9,Adventure,Biography,Drama
+90,Charade,7.9,Comedy,Mystery,Romance
+91,Children of Men,7.9,Adventure,Drama,Sci-Fi
+330,The Adventures of Robin Hood,7.9,Action,Adventure,Romance
+127,Fantastic Mr. Fox,7.9,Animation,Adventure,Comedy
+123,Edward Scissorhands,7.9,Drama,Fantasy,Romance
+110,District 9,7.9,Action,Sci-Fi,Thriller
+120,East of Eden,7.9,Drama,,
+325,Strangers on a Train,7.9,Crime,Film-Noir,Thriller
+321,Star Trek,7.9,Action,Adventure,Sci-Fi
+101,Crimes and Misdemeanors,7.9,Comedy,Drama,
+193,Jojo Rabbit,7.9,Comedy,Drama,War
+388,The Lion in Winter,7.9,Biography,Drama,History
+81,Captain Fantastic,7.9,Comedy,Drama,
+435,The Untouchables,7.9,Crime,Drama,Thriller
+469,X-Men: Days of Future Past,7.9,Action,Adventure,Sci-Fi
+18,All That Jazz,7.9,Drama,Music,Musical
+19,All the President's Men,7.9,Biography,Drama,History
+20,Almost Famous,7.9,Adventure,Comedy,Drama
+448,Toy Story 2,7.9,Animation,Adventure,Comedy
+22,Amarcord,7.9,Comedy,Drama,Family
+26,Amour,7.9,Drama,Romance,
+442,The Wrestler,7.9,Drama,Sport,
+439,The Wild Bunch,7.9,Action,Adventure,Western
+34,Arrival,7.9,Drama,Sci-Fi,
+78,Call Me by Your Name,7.9,Drama,Romance,
+427,The Ten Commandments,7.9,Adventure,Drama,
+48,Before Midnight,7.9,Drama,Romance,
+407,The Philadelphia Story,7.9,Comedy,Romance,
+401,The Manchurian Candidate,7.9,Drama,Thriller,
+396,The Lost Weekend,7.9,Drama,Film-Noir,
+66,Boogie Nights,7.9,Drama,,
+67,Boyhood,7.9,Drama,,
+376,The Irishman,7.9,Biography,Crime,Drama
+69,Brazil,7.9,Drama,Sci-Fi,
+261,Patton,7.9,Biography,Drama,War
+333,The Artist,7.9,Comedy,Drama,Romance
+176,In the Heat of the Night,7.9,Crime,Drama,Mystery
+223,Manhattan,7.9,Comedy,Drama,Romance
+199,King Kong,7.9,Adventure,Horror,Sci-Fi
+188,Isle of Dogs,7.9,Animation,Adventure,Comedy
+162,Harry Potter and the Prisoner of Azkaban,7.9,Adventure,Family,Fantasy
+245,Mystic River,7.9,Crime,Drama,Mystery
+248,Nightcrawler,7.9,Crime,Drama,Thriller
+159,Hannah and Her Sisters,7.9,Comedy,Drama,
+233,Miracle on 34th Street,7.9,Comedy,Drama,Family
+201,Knives Out,7.9,Comedy,Crime,Drama
+164,Harvey,7.9,Comedy,Drama,Fantasy
+250,No Man's Land,7.9,Comedy,Drama,War
+175,In Bruges,7.9,Comedy,Crime,Drama
+252,Notorious,7.9,Drama,Film-Noir,Romance
+224,Marriage Story,7.9,Comedy,Drama,Romance
+187,Iron Man,7.9,Action,Adventure,Sci-Fi
+211,Life of Pi,7.9,Adventure,Drama,Fantasy
+210,Letters from Iwo Jima,7.9,Action,Adventure,Drama
+168,High Noon,7.9,Drama,Thriller,Western
+218,Loving Vincent,7.8,Animation,Biography,Crime
+346,The Day of the Jackal,7.8,Crime,Drama,Thriller
+356,The Fugitive,7.8,Action,Crime,Drama
+202,Kramer vs. Kramer,7.8,Drama,,
+353,The Fighter,7.8,Biography,Drama,Sport
+415,The Remains of the Day,7.8,Drama,Romance,
+82,Captain Phillips,7.8,Adventure,Biography,Crime
+417,The Right Stuff,7.8,Adventure,Biography,Drama
+433,The Trial of the Chicago 7,7.8,Drama,History,Thriller
+43,Back to the Future Part II,7.8,Adventure,Comedy,Sci-Fi
+86,Cast Away,7.8,Adventure,Drama,Romance
+344,The Curious Case of Benjamin Button,7.8,Drama,Fantasy,Romance
+234,Misery,7.8,Drama,Thriller,
+214,Little Miss Sunshine,7.8,Comedy,Drama,
+342,The Color Purple,7.8,Drama,,
+450,Toy Story 4,7.8,Animation,Adventure,Comedy
+235,Mississippi Burning,7.8,Crime,Drama,History
+335,The Big Short,7.8,Biography,Comedy,Drama
+40,Awakenings,7.8,Biography,Drama,
+239,Moonrise Kingdom,7.8,Comedy,Drama,Romance
+37,Avatar,7.8,Action,Adventure,Fantasy
+198,Key Largo,7.8,Action,Crime,Drama
+357,The Girl with the Dragon Tattoo,7.8,Crime,Drama,Mystery
+77,Cabaret,7.8,Drama,Music,Musical
+167,Hidden Figures,7.8,Biography,Drama,History
+203,Kubo and the Two Strings,7.8,Animation,Action,Adventure
+222,Manchester by the Sea,7.8,Drama,,
+392,The Longest Day,7.8,Action,Drama,History
+400,The Man Who Would Be King,7.8,Adventure,History,War
+172,How to Train Your Dragon 2,7.8,Animation,Action,Adventure
+406,The Outlaw Josey Wales,7.8,Western,,
+65,Bonnie and Clyde,7.8,Action,Biography,Crime
+225,Mary Poppins,7.8,Comedy,Family,Fantasy
+31,Apocalypto,7.8,Action,Adventure,Drama
+378,The Killing Fields,7.8,Biography,Drama,History
+375,The Insider,7.8,Biography,Drama,Thriller
+228,Midnight Cowboy,7.8,Drama,,
+54,Big Hero 6,7.8,Animation,Action,Adventure
+444,Titanic,7.8,Drama,Romance,
+71,Breaking the Waves,7.8,Drama,,
+324,Straight Outta Compton,7.8,Biography,Drama,History
+369,The Hobbit: The Desolation of Smaug,7.8,Adventure,Fantasy,
+215,Little Women,7.8,Drama,Romance,
+368,The Hobbit: An Unexpected Journey,7.8,Adventure,Fantasy,
+72,Bride of Frankenstein,7.8,Drama,Horror,Sci-Fi
+366,The Hateful Eight,7.8,Crime,Drama,Mystery
+24,American Gangster,7.8,Biography,Crime,Drama
+343,The Conversation,7.8,Drama,Mystery,Thriller
+36,Atonement,7.8,Drama,Mystery,Romance
+313,Sound of Metal,7.8,Drama,Music,
+268,Predator,7.8,Action,Adventure,Sci-Fi
+269,Pride & Prejudice,7.8,Drama,Romance,
+118,Drive,7.8,Crime,Drama,
+106,Days of Heaven,7.8,Drama,Romance,
+122,Ed Wood,7.8,Biography,Comedy,Drama
+142,Ghostbusters,7.8,Action,Comedy,Fantasy
+146,Glory,7.8,Biography,Drama,History
+460,What's Eating Gilbert Grape,7.8,Drama,,
+297,Shadow of a Doubt,7.8,Film-Noir,Thriller,
+119,Dunkirk,7.8,Action,Drama,History
+244,My Fair Lady,7.8,Drama,Family,Musical
+301,Shrek,7.8,Animation,Adventure,Comedy
+318,Stagecoach,7.8,Adventure,Drama,Western
+156,Guess Who's Coming to Dinner,7.8,Comedy,Drama,
+140,Gattaca,7.8,Drama,Sci-Fi,Thriller
+457,Walk the Line,7.8,Biography,Drama,Music
+256,Once,7.8,Drama,Music,Romance
+282,Red River,7.8,Action,Adventure,Drama
+397,The Magnificent Seven,7.7,Action,Adventure,Western
+61,Blazing Saddles,7.7,Comedy,Western,
+468,Wreck-It Ralph,7.7,Animation,Adventure,Comedy
+221,Malcolm X,7.7,Biography,Drama,History
+322,Star Trek Into Darkness,7.7,Action,Adventure,Sci-Fi
+63,Blue Velvet,7.7,Drama,Mystery,Thriller
+137,Frost/Nixon,7.7,Biography,Drama,History
+5,3:10 to Yuma,7.7,Action,Crime,Drama
+135,Fried Green Tomatoes,7.7,Drama,,
+279,Ray,7.7,Biography,Drama,Music
+8,A Few Good Men,7.7,Drama,Thriller,
+386,The Lego Movie,7.7,Animation,Action,Adventure
+385,The Last of the Mohicans,7.7,Action,Adventure,Drama
+384,The Last Samurai,7.7,Action,Drama,
+141,Get Out,7.7,Horror,Mystery,Thriller
+405,The Odd Couple,7.7,Comedy,,
+217,Lost in Translation,7.7,Comedy,Drama,
+50,Being John Malkovich,7.7,Comedy,Drama,Fantasy
+428,The Theory of Everything,7.7,Biography,Drama,Romance
+152,Gravity,7.7,Drama,Sci-Fi,Thriller
+471,Zelig,7.7,Comedy,,
+423,The Social Network,7.7,Biography,Drama,
+263,Philadelphia,7.7,Drama,,
+45,Barton Fink,7.7,Comedy,Drama,Thriller
+33,Argo,7.7,Biography,Drama,Thriller
+147,Goldfinger,7.7,Action,Adventure,Thriller
+413,The Quiet Man,7.7,Comedy,Drama,Romance
+57,Black Hawk Down,7.7,Drama,History,War
+145,Glengarry Glen Ross,7.7,Crime,Drama,Mystery
+411,The Purple Rose of Cairo,7.7,Comedy,Fantasy,Romance
+55,Billy Elliot,7.7,Drama,Music,
+270,Primal Fear,7.7,Crime,Drama,Mystery
+195,Joyeux Noël,7.7,Drama,History,Music
+382,The Last King of Scotland,7.7,Biography,Drama,History
+437,The Verdict,7.7,Drama,,
+56,Birdman or (The Unexpected Virtue of Ignorance),7.7,Comedy,Drama,
+253,"O Brother, Where Art Thou?",7.7,Adventure,Comedy,Crime
+173,I Am Sam,7.7,Drama,,
+381,The Last Emperor,7.7,Biography,Drama,History
+355,The French Connection,7.7,Action,Crime,Drama
+303,Silver Linings Playbook,7.7,Comedy,Drama,Romance
+380,The Ladykillers,7.7,Comedy,Crime,
+115,Donnie Brasco,7.7,Biography,Crime,Drama
+305,Skyfall,7.7,Action,Adventure,Thriller
+349,The Dirty Dozen,7.7,Action,Adventure,War
+160,Harry Potter and the Goblet of Fire,7.7,Adventure,Family,Fantasy
+246,Nebraska,7.7,Adventure,Comedy,Drama
+108,Deliverance,7.7,Adventure,Drama,Thriller
+35,As Good as It Gets,7.7,Comedy,Drama,Romance
+341,The Broken Circle Breakdown,7.7,Drama,Music,Romance
+314,"South Park: Bigger, Longer & Uncut",7.7,Animation,Comedy,Fantasy
+89,Changeling,7.7,Biography,Crime,Drama
+451,Training Day,7.7,Crime,Drama,Thriller
+336,The Birds,7.7,Drama,Horror,Mystery
+331,The African Queen,7.7,Adventure,Drama,Romance
+98,Coraline,7.7,Animation,Drama,Family
+327,Tangled,7.7,Animation,Adventure,Comedy
+11,A Man for All Seasons,7.7,Biography,Drama,History
+352,The Fifth Element,7.7,Action,Adventure,Sci-Fi
+300,Short Cuts,7.7,Comedy,Drama,
+290,Sabrina,7.7,Comedy,Drama,Romance
+284,Road to Perdition,7.7,Crime,Drama,Thriller
+99,Crash,7.7,Crime,Drama,Thriller
+174,In America,7.7,Drama,,
+126,Ex Machina,7.7,Drama,Sci-Fi,Thriller
+286,Roma,7.7,Drama,,
+124,Empire of the Sun,7.7,Action,Drama,History
+158,Hamlet,7.7,Drama,,
+80,Captain America: The Winter Soldier,7.7,Action,Adventure,Sci-Fi
+257,Ordinary People,7.7,Drama,,
+464,Who Framed Roger Rabbit,7.7,Animation,Adventure,Comedy
+296,Serpico,7.7,Biography,Crime,Drama
+75,Brokeback Mountain,7.7,Drama,Romance,
+230,Midnight in Paris,7.7,Comedy,Fantasy,Romance
+10,A Little Princess,7.7,Drama,Family,Fantasy
+299,Shine,7.7,Biography,Drama,Music
+79,Cape Fear,7.7,Drama,Thriller,
+9,A Hard Day's Night,7.6,Comedy,Music,Musical
+438,The Visitor,7.6,Drama,,
+209,Lethal Weapon,7.6,Action,Crime,Thriller
+461,When Harry Met Sally...,7.6,Comedy,Drama,Romance
+4,21 Grams,7.6,Crime,Drama,Thriller
+180,Incredibles 2,7.6,Animation,Action,Adventure
+453,True Grit,7.6,Drama,Western,
+12,A Star Is Born,7.6,Drama,Music,Romance
+32,Apollo 13,7.6,Adventure,Drama,History
+73,Bridge of Spies,7.6,Drama,History,Thriller
+430,The Thin Red Line,7.6,Drama,War,
+302,Sicario,7.6,Action,Crime,Drama
+95,Close Encounters of the Third Kind,7.6,Drama,Sci-Fi,
+161,Harry Potter and the Half-Blood Prince,7.6,Action,Adventure,Family
+100,Creed,7.6,Drama,Sport,
+241,Mulan,7.6,Animation,Adventure,Family
+242,Mustang,7.6,Drama,,
+243,My Cousin Vinny,7.6,Comedy,Crime,
+105,Dawn of the Planet of the Apes,7.6,Action,Adventure,Drama
+306,Sleepers,7.6,Crime,Drama,Thriller
+298,Sherlock Holmes,7.6,Action,Adventure,Mystery
+41,Baby Driver,7.6,Action,Crime,Drama
+295,Sense and Sensibility,7.6,Drama,Romance,
+121,Eastern Promises,7.6,Action,Crime,Drama
+132,Finding Neverland,7.6,Biography,Drama,Family
+136,From Here to Eternity,7.6,Drama,Romance,War
+254,On Golden Pond,7.6,Drama,,
+143,Giant,7.6,Drama,Western,
+264,Philomena,7.6,Biography,Comedy,Drama
+148,Gone Baby Gone,7.6,Crime,Drama,Mystery
+237,Moneyball,7.6,Biography,Drama,Sport
+163,Harry Potter and the Sorcerer's Stone,7.6,Adventure,Family,Fantasy
+337,The Blind Side,7.6,Biography,Drama,Sport
+340,The Bridges of Madison County,7.6,Drama,Romance,
+212,Lifeboat,7.6,Drama,War,
+419,The Secret of Kells,7.6,Animation,Adventure,Family
+418,The Royal Tenenbaums,7.6,Comedy,Drama,
+169,Home Alone,7.6,Comedy,Family,
+404,The Muppet Movie,7.6,Adventure,Comedy,Family
+391,The Long Goodbye,7.6,Comedy,Crime,Drama
+389,The Little Mermaid,7.6,Animation,Family,Fantasy
+226,Match Point,7.6,Drama,Romance,Thriller
+377,The Jungle Book,7.6,Animation,Adventure,Family
+165,Hell or High Water,7.6,Action,Crime,Drama
+70,Breakfast at Tiffany's,7.6,Comedy,Drama,Romance
+372,The Illusionist,7.6,Drama,Fantasy,Mystery
+370,The Hurricane,7.6,Biography,Drama,Sport
+155,Guardians of the Galaxy Vol. 2,7.6,Action,Adventure,Comedy
+229,Midnight Express,7.6,Biography,Crime,Drama
+354,The Florida Project,7.6,Drama,,
+232,Minority Report,7.6,Action,Crime,Mystery
+236,Moana,7.6,Animation,Adventure,Comedy

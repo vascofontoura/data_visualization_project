@@ -1,0 +1,130 @@
+body {
+    background-color: #FAF0E6;
+}
+
+.column2 {
+  flex: 70%;
+}
+.column_students {
+  flex: 48%;
+  margin-top: auto;
+  text-align: center;
+  background-color: rgba(184, 135, 11, 0.55);
+  /* border-radius: 5px; */
+}
+h1 {
+  color:  rgba(184, 135, 11, 0.85);
+  text-align: center;
+  /* background-color: #254E58;; */
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: bolder;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  /* background-color: #f9f9f9;; */
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: lighter;
+}
+
+h6 {
+  color: #B8860BFF;
+  text-align: center;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: lighter;
+  margin: 7px;
+  padding: 0
+}
+
+h3 {
+  color: #B8860BFF;
+  text-align: center;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: lighter;
+  margin-left: 20px;
+}
+
+h4 {
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  /*background-color: #f9f9f9;*/
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-weight: lighter;
+   margin-left: 10%;
+}
+
+h5 {
+  color: rgba(184, 135, 11, 0.0);
+  text-align: center;
+  background-color: rgba(184, 135, 11, 0.0);
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 10px;
+  font-weight: lighter;
+  margin-bottom: 30px;
+}
+
+.row {
+  display: flex;
+  color: black;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.rowTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.vertical_line {
+  width: 1px;
+  height: 100px;
+  background-color: #FAF0E6;
+  display: inline-block;
+  margin:  2px;
+}
+
+.vertical_line_top5 {
+  width: 25px;
+  height: 1px;
+  background-color: rgba(184, 135, 11, 0.0);
+  display: inline-block;
+}
+
+.column1 {
+  flex: 60%;
+  margin: 0px;
+  background-color: rgba(184, 135, 11, 0.5294117647058824);
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px lightgrey;
+}
+
+.column4 {
+  flex: 60%;
+  /*margin: auto;*/
+  background-color: #FAF0E6;
+  padding: 15px;
+  border-radius: 10px;
+  align-items: start;
+  justify-content: space-between;
+
+}
+
+.column3 {
+  flex: 60%;
+  background-color: rgba(184, 135, 11, 0.5294117647058824);
+  padding: 5px;
+  border-radius: 0px;
+  box-shadow: 3px 3px 3px lightgrey;
+  text-align: right;
+}
