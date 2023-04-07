@@ -1,6 +1,6 @@
 import dash
 from dash import dcc
-import dash_html_components as html
+from dash import html
 from dash.dependencies import Input, Output, State
 import numpy as np
 import pandas as pd
