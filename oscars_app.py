@@ -229,7 +229,7 @@ app.layout = html.Div([
                 html.H2(
                     children='When building the visualizations, a nomination or win was considered for any category.',style={'color':'black'}),
                 html.H2(
-                    children='When counting actors and directors nominations and wins, any nomination and win for any category for the movie they directed/starred counted towards their total sum',
+                    children='When counting actors and directors nominations and wins, any nomination and win for any category for the movie they directed/starred counted towards their total sum.',
                     style={'margin-bottom': '10px',
                            'color':'black'}),
 
@@ -259,7 +259,7 @@ app.layout = html.Div([
                 dcc.Graph(id='fig_scatter2',figure=fig_scatterplot),
                 html.Div([
                     html.Div([
-                        html.H6(children='Top 5 outstanding Directors'),
+                        html.H6(children='Top 5 outstanding Directors by Wins'),
                         html.Table([
                             html.Tr([
                                 html.Td(
@@ -301,7 +301,7 @@ app.layout = html.Div([
                     ],className='vertical_line_top5'),
 
                     html.Div([
-                        html.H6(children='Top 5 outstanding Actors'),
+                        html.H6(children='Top 5 outstanding Actors by Wins'),
                         html.Table([
                             html.Tr([
                                 html.Td(
